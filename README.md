@@ -2,7 +2,7 @@ This repository is about converting the
 - image to text
 - text to audio
 
-+ Follow the requirements to run this file in your GPU servers.
+Follow the requirements to run this file in your GPU servers.
 ## The Requirements to run this multimodal models are:
 + !pip install -q git+https://github.com/huggingface/transformers.git
 + !pip install numpy --pre torch torchvision torchaudio --force-reinstall --index-url https://download.pytorch.org/whl/nightly/cu118
