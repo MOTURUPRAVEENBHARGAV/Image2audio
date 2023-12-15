@@ -1,6 +1,6 @@
 This repository is about converting the 
 - image to text
-- text to audio
+- text to speech
 
 Follow the requirements to run this file in your GPU servers.
 ## The Requirements to run this multimodal models are:
